@@ -10,5 +10,5 @@ package uan;
  * @author lenovo
  */
 public class Final {
-    
+    //Jalar en vez de empujar
 }
