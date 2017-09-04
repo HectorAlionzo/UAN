@@ -12,4 +12,7 @@ package uan;
 public class Final {
     //Jalar en vez de empujar
     //Empujar en vez de jalar
+Final(){
+init core=0;
+}
 }
